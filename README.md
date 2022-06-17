@@ -29,16 +29,30 @@ Vue全家桶 + 魔改ElementUI 仿网易云客户端 (PC) 在线播放器 ☁️
 * ***better-scroll*** 歌词滚动
 * ***vue-lazyload*** 图片懒加载 , 加载动画
 
-### 后端接口 ###
+### 后端接口
 https://binaryify.github.io/NeteaseCloudMusicApi
 
-### 接口调试工具 ###
+### 接口调试工具
 https://www.apifox.cn/
 
-截图
+
+部分功能展示
 ---
-首页
+
+### 首页
 ![Image text](https://github.com/Attentionsss/UserImages/blob/main/%E9%A6%96%E9%A1%B5.png?raw=true)
+
+### 首页歌单
+![Image text](https://github.com/Attentionsss/UserImages/blob/main/%E9%A6%96%E9%A1%B5%E6%AD%8C%E5%8D%95.png?raw=true)
+
+### 歌词
+![Image text](https://github.com/Attentionsss/UserImages/blob/main/%E6%AD%8C%E8%AF%8D.png?raw=true)
+
+### 每日推荐
+![Image text](https://github.com/Attentionsss/UserImages/blob/main/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90.png?raw=true)
+
+### 搜索
+![Image text](https://github.com/Attentionsss/UserImages/blob/main/%E6%90%9C%E7%B4%A2png.png?raw=true)
 
 部署
 ---
